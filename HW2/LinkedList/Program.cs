@@ -12,10 +12,10 @@ namespace LinkedList
         {
             LinkedList L = new LinkedList();
           
-            L.AddFirst(5);
-            L.AddFirst(3);
-            L.AddFirst(8);
-           
+            //L.AddFirst(5);
+            //L.AddFirst(3);
+            //L.AddFirst(8);
+
         }
     }
 }

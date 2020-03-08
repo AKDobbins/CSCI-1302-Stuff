@@ -8,14 +8,17 @@ namespace LinkedList
 {
     class Node
     {
-        private int _data;
+        //private int _data;
+        private Card _data;
         private Node _link;
-        public Node(int data, Node link)
+        
+        public Node(Card data, Node link)
         {
             _data = data;
             _link = link;
         }
-        public int Data
+        //public int Data
+        public Card Data
         {
             get { return _data; }
         }
