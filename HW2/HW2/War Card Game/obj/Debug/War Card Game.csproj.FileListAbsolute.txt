@@ -1,0 +1,6 @@
+C:\Users\Austen\Desktop\HW2\War Card Game\bin\Debug\War Card Game.exe.config
+C:\Users\Austen\Desktop\HW2\War Card Game\bin\Debug\War Card Game.exe
+C:\Users\Austen\Desktop\HW2\War Card Game\bin\Debug\War Card Game.pdb
+C:\Users\Austen\Desktop\HW2\War Card Game\obj\Debug\War Card Game.csprojAssemblyReference.cache
+C:\Users\Austen\Desktop\HW2\War Card Game\obj\Debug\War Card Game.exe
+C:\Users\Austen\Desktop\HW2\War Card Game\obj\Debug\War Card Game.pdb

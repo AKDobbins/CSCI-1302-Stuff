@@ -1,0 +1,6 @@
+C:\Users\AustenD\Desktop\CSCI-1302-Stuff-master\HW2\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\AustenD\Desktop\CSCI-1302-Stuff-master\HW2\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\AustenD\Desktop\CSCI-1302-Stuff-master\HW2\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\AustenD\Desktop\CSCI-1302-Stuff-master\HW2\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+C:\Users\AustenD\Desktop\CSCI-1302-Stuff-master\HW2\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\AustenD\Desktop\CSCI-1302-Stuff-master\HW2\LinkedList\obj\Debug\LinkedList.pdb
